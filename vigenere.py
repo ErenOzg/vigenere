@@ -1,7 +1,7 @@
 """
 vigenere.py
 
-This module provides functions for transforming text using a Vigenère cipher.
+This module provides functions for transforming text using a Vigenere cipher.
 
 Ben Davies
 2018 07 28
